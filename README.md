@@ -1,1 +1,1 @@
-# Skupinovy-projket
+# Skupinovy-projekt
