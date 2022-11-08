@@ -1,0 +1,14 @@
+div {
+	display: inline-block;
+}
+img{
+	float:right;
+	margin-left: 35px;
+
+} 
+ol {
+	float:left;
+}
+h3 {
+	margin-left: 35px;
+}
